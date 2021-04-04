@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/perseverance/static/css/main.63660c52.chunk.css",
+    "main.js": "/perseverance/static/js/main.70540ff4.chunk.js",
+    "main.js.map": "/perseverance/static/js/main.70540ff4.chunk.js.map",
+    "runtime-main.js": "/perseverance/static/js/runtime-main.7e54a37f.js",
+    "runtime-main.js.map": "/perseverance/static/js/runtime-main.7e54a37f.js.map",
+    "static/js/2.dc3407e6.chunk.js": "/perseverance/static/js/2.dc3407e6.chunk.js",
+    "static/js/2.dc3407e6.chunk.js.map": "/perseverance/static/js/2.dc3407e6.chunk.js.map",
+    "static/js/3.3fb546ad.chunk.js": "/perseverance/static/js/3.3fb546ad.chunk.js",
+    "static/js/3.3fb546ad.chunk.js.map": "/perseverance/static/js/3.3fb546ad.chunk.js.map",
+    "index.html": "/perseverance/index.html",
+    "static/css/main.63660c52.chunk.css.map": "/perseverance/static/css/main.63660c52.chunk.css.map",
+    "static/js/2.dc3407e6.chunk.js.LICENSE.txt": "/perseverance/static/js/2.dc3407e6.chunk.js.LICENSE.txt",
+    "static/media/PIA23727_ultrawide_small.d064c005.png": "/perseverance/static/media/PIA23727_ultrawide_small.d064c005.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e54a37f.js",
+    "static/js/2.dc3407e6.chunk.js",
+    "static/css/main.63660c52.chunk.css",
+    "static/js/main.70540ff4.chunk.js"
+  ]
+}
